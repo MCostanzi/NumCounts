@@ -1,6 +1,6 @@
 include ${COSMOSIS_SRC_DIR}/config/compilers.mk
 
-all: likelihood_NC.so
+all: number_count_module.so
 
 test:
 	@echo "Alas,  Tinker MF  has no tests"
